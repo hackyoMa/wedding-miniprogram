@@ -15,12 +15,12 @@ _设计来源：[未](http://xhslink.com/sUyahu)_
 
 #### 预览
 
-<figure class="half">
+<div>
   <img src="preview/preview1.png" alt="preview1" width="300px"/>
   <img src="preview/preview2.png" alt="preview2" width="300px"/>
   <img src="preview/preview3.png" alt="preview3" width="300px"/>
   <img src="preview/preview4.png" alt="preview4" width="300px"/>
-</figure>
+</div>
 
 #### 开发
 
