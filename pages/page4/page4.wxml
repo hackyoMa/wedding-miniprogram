@@ -1,0 +1,19 @@
+<view class="page">
+  <view class="year">
+    <view>20</view>
+    <view class="year-border">23</view>
+  </view>
+  <view class="line1"></view>
+  <view class="title">Time　&　Location</view>
+  <view class="line2"></view>
+  <view class="time">2023.9.23　/　11:28</view>
+  <view class="line3"></view>
+  <view class="hotel">花果山酒店</view>
+  <view class="address">/ 连云港市花果山大道98号 /</view>
+  <view class="line4"></view>
+  <image src="../../images/page4/map.png" mode="widthFix" class="map" bindtap="openLocation"></image>
+  <view class="desc">
+    <view>感谢您一起与我们</view>
+    <view>分享沿途的每个珍贵时刻</view>
+  </view>
+</view>

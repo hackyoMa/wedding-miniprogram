@@ -1,0 +1,7 @@
+{
+  "description": "Wedding Miniprogram",
+  "projectname": "wedding-miniprogram",
+  "setting": {
+    "compileHotReLoad": true
+  }
+}

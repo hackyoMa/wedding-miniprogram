@@ -1,0 +1,109 @@
+.page {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: block;
+  font-family: "Gaia";
+}
+
+.year {
+  position: absolute;
+  top: 80rpx;
+  right: 42rpx;
+  font-size: 32rpx;
+  text-align: center;
+}
+
+.year-border {
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 10rpx;
+  width: 60rpx;
+  margin-top: -4rpx;
+}
+
+.line1 {
+  position: absolute;
+  top: 180rpx;
+  left: 42rpx;
+  right: 42rpx;
+  height: 1px;
+  background-color: rgb(102, 102, 102);
+}
+
+.line2 {
+  position: absolute;
+  top: 270rpx;
+  left: 42rpx;
+  right: 42rpx;
+  height: 1px;
+  background-color: rgb(102, 102, 102);
+}
+
+.title {
+  position: absolute;
+  top: 198rpx;
+  left: 64rpx;
+  font-size: 38rpx;
+}
+
+.time {
+  position: absolute;
+  top: 334rpx;
+  left: 64rpx;
+  font-size: 52rpx;
+}
+
+.line3 {
+  position: absolute;
+  top: 470rpx;
+  left: 42rpx;
+  right: 42rpx;
+  height: 1px;
+  background-color: rgb(102, 102, 102);
+}
+
+.hotel {
+  position: absolute;
+  top: 556rpx;
+  left: 64rpx;
+  font-size: 54rpx;
+}
+
+.address {
+  position: absolute;
+  top: 646rpx;
+  left: 64rpx;
+  font-size: 36rpx;
+}
+
+.line4 {
+  position: absolute;
+  top: 1172rpx;
+  left: 42rpx;
+  right: 42rpx;
+  height: 1px;
+  background-color: rgb(102, 102, 102);
+}
+
+.map {
+  position: absolute;
+  top: 720rpx;
+  left: 64rpx;
+  width: 622rpx;
+  cursor: pointer;
+  border: 1px solid rgb(102, 102, 102);
+  border-radius: 30rpx;
+}
+
+.desc {
+  position: absolute;
+  bottom: 72rpx;
+  left: 64rpx;
+  font-size: 28rpx;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.desc>view {
+  margin-top: 16rpx;
+}

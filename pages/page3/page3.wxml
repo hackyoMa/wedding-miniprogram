@@ -1,0 +1,23 @@
+<view class="page">
+  <image src="../../images/page1/star.png" mode="widthFix" class="star1"></image>
+  <image src="../../images/page1/star.png" mode="widthFix" class="star2"></image>
+  <view class="line1"></view>
+  <view class="line2"></view>
+  <view class="content">
+    <view class="love">爱</view>
+    <view>　</view>
+    <view>有人说　爱如涓涓河流</view>
+    <view>润泽万物</view>
+    <view>　</view>
+    <view>有人说　爱是汲汲渴望</view>
+    <view>无休无止</view>
+    <view>　</view>
+    <view>于是</view>
+    <view>我们种下一颗爱的种子</view>
+    <view>找寻答案</view>
+    <view>　</view>
+    <view>冬去春来</view>
+    <view>很高兴你来</view>
+    <view>看种子长成玫瑰　娇艳盛开</view>
+  </view>
+</view>

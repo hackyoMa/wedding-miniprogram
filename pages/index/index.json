@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "page-1": "../page1/page1",
+    "page-2": "../page2/page2",
+    "page-3": "../page3/page3",
+    "page-4": "../page4/page4"
+  }
+}

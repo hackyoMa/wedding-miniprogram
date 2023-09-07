@@ -1,0 +1,20 @@
+{
+  "entryPagePath": "pages/index/index",
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "WELCOME TO OUR WEDDING",
+    "navigationStyle": "custom",
+    "initialRenderingCache": "static"
+  },
+  "resizable": false,
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "darkmode": false,
+  "lazyCodeLoading": "requiredComponents",
+  "singlePage": {
+    "navigationBarFit": "squeezed"
+  },
+  "enablePassiveEvent": true
+}

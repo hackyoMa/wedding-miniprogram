@@ -1,0 +1,30 @@
+<view class="page">
+  <image src="../../images/page2/signet.png" mode="widthFix" class="signet"></image>
+  <image src="../../images/page2/photo.png" mode="widthFix" class="photo"></image>
+  <view class="line1"></view>
+  <view class="declaration">
+    <view>You are the butter</view>
+    <view>to my bread</view>
+    <view>and the breath</view>
+    <view>to my life.</view>
+  </view>
+  <view class="source">-Julie & Julia</view>
+  <view class="line2"></view>
+  <view class="invitation">
+    <view>婚　礼</view>
+    <view>邀请函</view>
+    <image src="../../images/page2/arrow.png" mode="widthFix" class="arrow"></image>
+    <view class="gaia">9 · 23</view>
+  </view>
+  <view class="welcome gaia">
+    <view>WELCOME</view>
+    <view>TO</view>
+    <view>OUR</view>
+    <view>WEDDING</view>
+  </view>
+  <view class="desc">
+    <view>希望我们有幸</view>
+    <view>邀请最亲密的你</view>
+    <view>见证我们此生最重要的决定</view>
+  </view>
+</view>

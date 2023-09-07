@@ -1,0 +1,27 @@
+<view class="page">
+  <image src="../../images/page1/star.png" mode="widthFix" class="star"></image>
+  <image src="../../images/page1/arrow.png" mode="widthFix" class="arrow"></image>
+  <image src="../../images/page1/flowers.png" mode="widthFix" class="flowers"></image>
+  <view class="title">
+    <view>the</view>
+    <view>big day</view>
+  </view>
+  <view class="welcome">
+    <view>WELCOME</view>
+    <view>TO</view>
+    <view>OUR</view>
+    <view>WEDDING</view>
+  </view>
+  <view class="welcome-chinese">
+    <view>囍迎</view>
+    <view>親朋</view>
+  </view>
+  <view class="date">
+    <view>2023</view>
+    <view>\</view>
+    <view>9 · 23</view>
+  </view>
+  <view class="name">
+    <view>罗密欧 & 朱丽叶</view>
+  </view>
+</view>

@@ -1,0 +1,6 @@
+<scroll-view class="container" style="height: {{systemInfo.windowHeight}}px;" scroll-anchoring="{{true}}" enable-passive="{{true}}" paging-enabled="{{true}}" scroll-with-animation="{{true}}" scroll-y="{{true}}" enhanced="{{true}}" bounces="{{false}}" show-scrollbar="{{false}}" enable-back-to-top="{{false}}">
+  <page-1 class="page"></page-1>
+  <page-2 class="page"></page-2>
+  <page-3 class="page"></page-3>
+  <page-4 class="page"></page-4>
+</scroll-view>
